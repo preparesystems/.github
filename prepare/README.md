@@ -1,1 +1,1 @@
-:)
+`./prepare_systems`
